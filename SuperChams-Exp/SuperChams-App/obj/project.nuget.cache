@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2m4brMvISMLaTARwoSM1nPsqga8M+JS5GNxFaS4CrVcwotGW0GP4rYt1SgjvhCkOWZ5x8aVvMZPtk838GeZeg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\LW\\Desktop\\CryptoGames\\1\\Xborg\\Borg\\Xborg-Exp\\XborgApp\\XborgApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LW\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'AspNetCoreRateLimit (>= 5.0.0)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "AspNetCoreRateLimit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\LW\\Desktop\\CryptoGames\\1\\Xborg\\Borg\\Xborg-Exp\\DogsHouse.Db\\DogsHouse.Db.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\LW\\Desktop\\CryptoGames\\1\\Xborg\\Borg\\Xborg-Exp\\DogsHouse.Db\\DogsHouse.Db.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
